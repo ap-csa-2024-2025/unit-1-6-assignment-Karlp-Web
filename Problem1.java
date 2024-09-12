@@ -6,7 +6,7 @@ public class Problem1
 
    int y = 20;
 
-   double ans = (double)5/20;
+   double ans = (double)x/y;
 
    System.out.println(ans);
 
