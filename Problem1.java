@@ -12,6 +12,5 @@ public class Problem1
 
    //Imprecise and indeterminable 
 
-
   }
 }
